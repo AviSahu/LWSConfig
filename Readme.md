@@ -6,6 +6,11 @@ SSH port: 2200
 Hosted URL: http://35.154.25.187 or 35.154.25.187:80
 
 
+Software installed: werkzeug==0.8.3, flask==0.9, Flask-Login==0.1.3, apache2, libapache2-mod-wsgi-py3
+
+
+#Notes to Reviewer
+
 ----BEGIN RSA PRIVATE KEY-----
 Proc-Type: 4,ENCRYPTED
 DEK-Info: AES-128-CBC,99413C433B74C767D5E3CFA343B3D471
@@ -38,6 +43,3 @@ Tq9KMqbQM4+5SK/yC0Hk7f2js57fYBcZl2th+YPzGH7H1Rjj2MvflKwhML2eKBTA
 -----END RSA PRIVATE KEY-----
 
 grader password : Grader123
-
-
-Software installed: werkzeug==0.8.3, flask==0.9, Flask-Login==0.1.3, apache2, libapache2-mod-wsgi-py3
