@@ -1,7 +1,7 @@
 #This File describes how linux webserver hosting work
 
-IP: 35.154.25.187
-SSH port: 2200
+Static IP: 13.126.193.60
+SSH port: 22, 2200
 
 Hosted URL: http://13.126.193.60 or 13.126.193.60:80
 
